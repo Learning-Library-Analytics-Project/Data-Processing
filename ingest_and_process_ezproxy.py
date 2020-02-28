@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Program: parse_logs.py
+Program: ingest_and_process_ezproxy.py
 Author: Nick Paulson, npaulson@umich.edu
 Created: 1/17/2020
 Last Updated by: Nick Paulson, npaulson@umich.edu
